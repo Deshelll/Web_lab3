@@ -1,0 +1,248 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Company
+</name>
+</assembly>
+<members>
+<member name="T:Company.My.MyWebExtension">
+ <summary>
+ Модуль, используемый для определения свойств, доступных в My Namespace для веб-проектов.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Company.My.MyWebExtension.Computer">
+ <summary>
+ Возвращает информацию о главном компьютере.
+ </summary>
+</member>
+<member name="P:Company.My.MyWebExtension.User">
+ <summary>
+ Возвращает сведения о текущем веб-пользователе.
+ </summary>
+</member>
+<member name="P:Company.My.MyWebExtension.Request">
+ <summary>
+ Возвращает объект Request.
+ </summary>
+</member>
+<member name="P:Company.My.MyWebExtension.Response">
+ <summary>
+ Возвращает объект Response.
+ </summary>
+</member>
+<member name="P:Company.My.MyWebExtension.Log">
+ <summary>
+ Возвращает объект журнала ASP.
+ </summary>
+</member>
+<member name="F:Company.ShowInfo._form1">
+<summary>
+form1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._GridView1">
+<summary>
+GridView1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._SqlDataSource1">
+<summary>
+SqlDataSource1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button4">
+<summary>
+Button4 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button8">
+<summary>
+Button8 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button10">
+<summary>
+Button10 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Panel2">
+<summary>
+Panel2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._TextBox4">
+<summary>
+TextBox4 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._TextBox5">
+<summary>
+TextBox5 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._TextBox6">
+<summary>
+TextBox6 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button5">
+<summary>
+Button5 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button6">
+<summary>
+Button6 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._GridView2">
+<summary>
+GridView2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._SqlDataSource2">
+<summary>
+SqlDataSource2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button1">
+<summary>
+Button1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button7">
+<summary>
+Button7 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button9">
+<summary>
+Button9 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Panel1">
+<summary>
+Panel1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._TextBox1">
+<summary>
+TextBox1 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._TextBox2">
+<summary>
+TextBox2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._TextBox3">
+<summary>
+TextBox3 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button2">
+<summary>
+Button2 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+<member name="F:Company.ShowInfo._Button3">
+<summary>
+Button3 элемент управления.
+</summary>
+<remarks>
+Автоматически созданное поле.
+Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+</remarks>
+</member>
+</members>
+</doc>
